@@ -2232,12 +2232,12 @@
 <g id="Black_Invitation">
 	<g id="Location_2_">
 		<g>
-			<text transform="matrix(1.6049 0 0 1.5 179.165 369.3516)"><tspan x="20" y="0" class="st15 st16 st17 st18">123 Uptown Street, City</tspan><tspan x="38" y="13.6" class="st15 st16 st17 st18">State 12345</tspan></text>
+			<text transform="matrix(1.6049 0 0 2 179.165 369.3516)"><tspan x="20" y="0" class="st15 st16 st17 st18">123 Uptown Street, City</tspan><tspan x="38" y="13.6" class="st15 st16 st17 st18">State 12345</tspan></text>
 		</g>
 	</g>
 	<g id="Date_2_">
 		<g>
-			<text transform="matrix(1.6049 0 0 1.5 152.1377 279.8203)"><tspan x="10" y="0" class="st15 st16 st17 st19">ON FRIDAY THE  EIGTH OF OCTOBER</tspan><tspan x="23.8" y="13.6" class="st15 st16 st17 st19">TWO THOUSAND TWENTY ONE</tspan><tspan x="17.5" y="27.3" class="st15 st16 st17 st19">AT SIX O’CLOCK IN THE EVENING</tspan></text>
+			<text transform="matrix(1.6049 0 0 1.6 152.1377 279.8203)"><tspan x="10" y="0" class="st15 st16 st17 st19">ON FRIDAY THE  EIGTH OF OCTOBER</tspan><tspan x="23.8" y="13.6" class="st15 st16 st17 st19">TWO THOUSAND TWENTY ONE</tspan><tspan x="17.5" y="27.3" class="st15 st16 st17 st19">AT SIX O’CLOCK IN THE EVENING</tspan></text>
 		</g>
 	</g>
 	<g id="Names_2_">
@@ -2255,7 +2255,7 @@
 	</g>
 	<g id="Header_2_">
 		<g>
-			<text transform="matrix(1.6049 0 0 2 200.9209 146.8184)" class="st15 st16 st17 st18">WEDDING CEREMONY</text>
+			<text transform="matrix(1.6049 0 0 4 200.9209 146.8184)" class="st15 st16 st17 st18">WEDDING CEREMONY</text>
 		</g>
 	</g>
 </g>
