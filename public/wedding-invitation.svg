@@ -2232,12 +2232,12 @@
 <g id="Black_Invitation">
 	<g id="Location_2_">
 		<g>
-			<text transform="matrix(1.6049 0 0 1 179.165 369.3516)"><tspan x="20" y="0" class="st15 st16 st17 st18">123 Uptown Street, City</tspan><tspan x="38" y="13.6" class="st15 st16 st17 st18">State 12345</tspan></text>
+			<text transform="matrix(1.6049 0 0 1.5 179.165 369.3516)"><tspan x="20" y="0" class="st15 st16 st17 st18">123 Uptown Street, City</tspan><tspan x="38" y="13.6" class="st15 st16 st17 st18">State 12345</tspan></text>
 		</g>
 	</g>
 	<g id="Date_2_">
 		<g>
-			<text transform="matrix(1.6049 0 0 1 152.1377 279.8203)"><tspan x="10" y="0" class="st15 st16 st17 st19">ON FRIDAY THE  EIGTH OF OCTOBER</tspan><tspan x="23.8" y="13.6" class="st15 st16 st17 st19">TWO THOUSAND TWENTY ONE</tspan><tspan x="17.5" y="27.3" class="st15 st16 st17 st19">AT SIX O’CLOCK IN THE EVENING</tspan></text>
+			<text transform="matrix(1.6049 0 0 1.5 152.1377 279.8203)"><tspan x="10" y="0" class="st15 st16 st17 st19">ON FRIDAY THE  EIGTH OF OCTOBER</tspan><tspan x="23.8" y="13.6" class="st15 st16 st17 st19">TWO THOUSAND TWENTY ONE</tspan><tspan x="17.5" y="27.3" class="st15 st16 st17 st19">AT SIX O’CLOCK IN THE EVENING</tspan></text>
 		</g>
 	</g>
 	<g id="Names_2_">
@@ -2245,17 +2245,17 @@
 			<g>
 				<text transform="matrix(1.6049 0 0 1 345.373 230.0859)" class="st15 st16 st20 st18">KOBURI</text>
 			</g>
-			<text id="XMLID_17_" transform="matrix(1.6049 0 0 1 345.373 215.6855)" class="st7 st21 st22 st23">KALEE</text>
+			<text id="XMLID_17_" transform="matrix(1.6049 0 0 1.4 345.373 215.6855)" class="st7 st21 st22 st23">KALEE</text>
 			<text transform="matrix(1.6049 0 0 1 253.2544 223.0547)" class="st7 st21 st24 st25">&amp;</text>
 			<g>
 				<text transform="matrix(1.6049 0 0 1 133.5464 228.957)" class="st15 st16 st20 st18">FRANCIS</text>
 			</g>
-			<text id="XMLID_16_" transform="matrix(1.6049 0 0 1 74.4429 214.5605)" class="st7 st21 st22 st26">SCHWYN</text>
+			<text id="XMLID_16_" transform="matrix(1.6049 0 0 1.4 74.4429 214.5605)" class="st7 st21 st22 st26">SCHWYN</text>
 		</g>
 	</g>
 	<g id="Header_2_">
 		<g>
-			<text transform="matrix(1.6049 0 0 1 200.9209 146.8184)" class="st15 st16 st17 st18">WEDDING CEREMONY</text>
+			<text transform="matrix(1.6049 0 0 2 200.9209 146.8184)" class="st15 st16 st17 st18">WEDDING CEREMONY</text>
 		</g>
 	</g>
 </g>
